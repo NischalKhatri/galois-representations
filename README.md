@@ -36,7 +36,7 @@ This work was conducted under the supervision of [Professor Kenneth McMurdy](htt
 
 - F. Diamond, J. Im, *Modular Forms and Modular Curves*, Canadian Math. Society Conference Proceedings 17 (1995), 39–133.
 - G. Ligozat, *Courbes modulaires de genre 1*, Bull. Soc. Math. France, Mém. 43 (1975).
-- K. McMurdy, *Eta Products for Modular Curves*, Online Proceedings from the Workshop on Computations with Modular Forms, Heilbronn Institute, Bristol (2008). [Link](http://www.uni-due.de/ hx0037/CMF/)
+- K. McMurdy, *Eta Products for Modular Curves*, Online Proceedings from the Workshop on Computations with Modular Forms, Heilbronn Institute, Bristol (2008). (http://www.uni-due.de/ hx0037/CMF/)
 - K. McMurdy, H. Ravindran, *Do the Coefficients of a Modular Form Really Encode Arithmetic Data?*, Rose-Hulman MSTR 08-01 (2008).
 - D. Mumford, *Curves and their Jacobians*, University of Michigan Press, 1975.
 - G. Shimura, *Introduction to the Arithmetic Theory of Automorphic Functions*, Iwanami Shoten and Princeton Univ. Press, Princeton, 1971.
