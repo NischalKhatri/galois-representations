@@ -2,7 +2,7 @@
 
 ## Overview
 
-This research focuses on verifying Shimura’s Theorem, specifically for a modular curve denoted as \( \Gamma_0(35) \). Modular curves are complex structures that arise from specific transformations and have deep implications in number theory.
+This research focuses on verifying Shimura’s Theorem, specifically for a modular curve denoted as Γ_0(35). Modular curves are complex structures that arise from specific transformations and have deep implications in number theory.
 
 ## Key Concepts
 
