@@ -12,25 +12,25 @@ This research focuses on verifying Shimura’s Theorem, specifically for a modul
 
 ## Project Goals
 
-1. **Model Construction:** Create an explicit model for the modular curve \( \Gamma_0(35) \).
+1. **Model Construction:** Create an explicit model for the modular curve Γ_0(35).
 2. **Differential Matching:** Match specific differential forms to the corresponding modular forms.
 3. **Elliptic Curve Equation:** Derive an equation for an elliptic curve that corresponds to one of the modular forms.
 4. **Verification:** Use computational methods to verify the accuracy of Shimura’s Theorem for the constructed model.
 
 ## Methods and Results
 
-- **Model Construction:** Using eta-functions, an explicit model for \( \Gamma_0(35) \) was derived.
+- **Model Construction:** Using eta-functions, an explicit model for Γ_0(35) was derived.
 - **Matching Differentials:** By comparing q-expansions, the differentials were matched to the modular forms.
 - **Elliptic Curve:** An equation for an elliptic curve was derived, transforming it into standard Weierstrass form.
 - **Verification:** Using Galois automorphisms and Frobenius automorphisms, the theorem was verified for specific primes.
 
 ## Conclusion
 
-This research successfully verified Shimura’s Theorem for the modular curve \( \Gamma_0(35) \) through explicit computation and algebraic methods. Further work involves similar verification for more complex modular forms.
+This research successfully verified Shimura’s Theorem for the modular curve Γ_0(35) through explicit computation and algebraic methods. Further work involves similar verification for more complex modular forms.
 
 ## Acknowledgements
 
-This work was conducted under the supervision of [Professor Kenneth McMurdy](https://www.ramapo.edu/tas/faculty/kenneth-w-mcmurdy/) at Ramapo College of New Jersey.
+This work was conducted under the supervision of [Professor Kenneth McMurdy](https://www.ramapo.edu/tas/faculty/kenneth-w-mcmurdy/) at [Ramapo College of New Jersey](https://www.ramapo.edu/honors/wp-content/uploads/sites/55/2019/08/Khatri.pdf).
 
 ## References
 
